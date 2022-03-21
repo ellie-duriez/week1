@@ -54,17 +54,17 @@ const x = 'x';
 const o = 'o';
 const empty = ' ';
 console.log(`  
-    |     |    
-${x}   |  ${o}  |  ${empty}  
-    |     |       
----------------
-    |     |       
-${x}   |  ${x}  |  ${empty}   
-    |     | 
----------------
-    |     |    
-${o}   |  ${empty}  |  ${empty}  
-    |     |      `);
+     |     |    
+  ${x}  |  ${o}  |  ${empty}  
+     |     |       
+-----------------
+     |     |       
+  ${x}  |  ${x}  |  ${empty}   
+     |     | 
+-----------------
+     |     |    
+  ${o}  |  ${empty}  |  ${empty}  
+     |     |      `);
 
     let space1 = "x";
 let space2 = "o";

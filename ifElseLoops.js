@@ -28,7 +28,7 @@ if (age>17 && country === 'UK') {
 let pizzaTopping = 'mushrooms';
 
 switch (pizzaTopping) {
-    case 'artichoke':
+    case 'pineapple':
         console.log('This is an important ingredient for my pizza.');
         break;
     case 'olives':

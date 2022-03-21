@@ -47,5 +47,6 @@ console.log('Libra');
 
 // Extra Activity 2: Research another String Method and Number Method that you can show me tomorrow. This can be anything you like but please have a piece of working code that demonstrates it. 
 
-console.log('I love dogs!'.replace('dogs','cats'));
+console.log('I love dogs!'.replace('dogs','cats')); //replaces part of a string with another string.
+console.log(0.93284234802.toFixed(3)) // rounds (up or down) to the specified number of decimal places.
 
